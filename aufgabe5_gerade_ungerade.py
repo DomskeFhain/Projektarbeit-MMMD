@@ -17,6 +17,5 @@ def check_even_or_odd():
         except ValueError:
             print("Ungültige Eingabe. Bitte gebe eine gültige Nummer ein.")
 
-# Start the main program
 if __name__ == "__main__":
     check_even_or_odd()
